@@ -23,9 +23,17 @@ It plans. It does not write your press release, blog post, or LinkedIn copy, and
 
 ## Install
 
-1. Download `startup-announcements.skill` from the [Releases](../../releases) page.
+**Option 1: upload to Claude.ai.**
+
+1. Download `startup-announcement-guide.skill` from the [Releases](../../releases) page.
 2. In Claude, go to Customize, then Skills. Click the plus button, choose Create skill, then Upload a skill, and select the file. If it won't take the .skill file, rename it to .zip and try again.
 3. Turn on code execution and file creation if they are off (Settings, then Capabilities). On Team and Enterprise plans an organization owner turns this on. Skills do not run without it.
+
+**Option 2: the skills CLI (for developers).** If you work in a terminal and have Node.js installed, run this and pick the skill when prompted:
+
+```
+npx skills add stephanie430/startup-announcement-guide
+```
 
 ## Try it
 
@@ -38,6 +46,10 @@ Start a new chat and describe your news. A few ways in:
 ## Updates
 
 Version 1.0, October 2026. A downloaded copy does not update on its own, so check back for new releases.
+
+## License
+
+MIT. See the [LICENSE](LICENSE) file. You are free to use and adapt this skill, and the license asks that you keep the copyright notice.
 
 ## About
 
