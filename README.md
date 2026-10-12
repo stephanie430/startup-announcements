@@ -29,7 +29,7 @@ It plans. It does not write your press release, blog post, or LinkedIn copy, and
 2. In Claude, go to Customize, then Skills. Click the plus button, choose Create skill, then Upload a skill, and select the file. If it won't take the .skill file, rename it to .zip and try again.
 3. Turn on code execution and file creation if they are off (Settings, then Capabilities). On Team and Enterprise plans an organization owner turns this on. Skills do not run without it.
 
-**Option 2: the skills CLI (for developers).** If you work in a terminal and have Node.js installed, run this and pick the skill when prompted:
+**Option 2: the skills CLI (for Claude Code, Cursor, and other coding agents). If you use one of those and have Node.js installed, run this in your terminal. The CLI finds the agents on your computer and installs the skill for them, so there’s nothing to download first:
 
 ```
 npx skills add stephanie430/startup-announcement-guide
