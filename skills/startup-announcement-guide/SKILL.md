@@ -49,6 +49,18 @@ If the founder has more than one piece of news, plan them one at a time. Stackin
 
 If they want to pitch VC newsletters, also read `references/vc-newsletter-pitch.md`.
 
+#### When the news is none of these four
+
+Founders will bring other news: an acquisition (buying or being bought), a rebrand, an award, a leadership change, a new office, a layoff. Do not force it into a type that does not fit, and do not turn the founder away. Say plainly in one sentence that this is outside the four types the framework was built for, name the closest one, and adapt it. Partnership is the closest fit for most deals with another company, because the other side's sign-off and timing come first. Product launch is closest for a rebrand or a new offering. Key hire is closest for a leadership change.
+
+Then add the checks the four types do not cover, and ask about each in your first batch of questions:
+
+- **Legal and disclosure limits.** Ask whether a lawyer, board, contract, or securities rule limits what can be said (price, terms, timing, who is named). If so, the founder uses only approved wording, and the plan puts legal review before anything is written. If the news is sensitive, such as a layoff, say the founder should talk to counsel before announcing anything. You are not giving legal advice.
+- **The other party.** If another company, person, or organization is involved, ask whether they have agreed to announce, who leads, and whether they have a comms team or brand guidelines. When they lead, the founder follows their timing and does not publish first, and the plan skips the founder's own press release and media outreach.
+- **Who hears first.** Follow the "who hears first" rule in the Timing section. When the news is confidential, ask who already knows and who is under an NDA, and do not put a customer or investor note ahead of the public post unless the founder confirms it is safe. When another company leads the announcement, customer notes usually go out right after their release, not before.
+
+Tell the founder at the top of the plan which type you adapted and what you added, so they know it is a best fit and not the tested framework. Build the plan the usual way after that, including the skipping list and the copy-and-paste checklist.
+
 ### 2. Ask questions before planning
 
 A plan built without context is a generic checklist, and that is the main failure here. Ask what the type file lists, in one short batch, not one question at a time. Skip anything the founder already told you. If an answer is missing and the plan cannot be good without it, ask again instead of guessing.
@@ -89,12 +101,50 @@ Use this shape, kept tight:
 3. **Skipping on purpose.** A short list of items left out and the reason, so the founder knows the omissions were a decision.
 4. **Briefs for each piece.** Only for pieces in the plan: purpose, what must be in it, who signs off.
 5. **VC newsletter pitches**, if the founder wants them, drafted per `references/vc-newsletter-pitch.md`.
+6. **Copy-and-paste checklist.** The last piece of the plan, so the founder can drop it into a doc or an email without editing. Follow the rules in the next section.
 
 Remind the founder that checklists are guides, not gospel, and they do not need to tick every box.
+
+#### The copy-and-paste checklist
+
+The checklist in item 2 is for reading. This one is for pasting, so it has to survive a paste into Google Docs, Word, Notion, or an email with nothing to clean up. Put it in a fenced code block, which gives the founder a copy button and makes it paste as plain text in the destination's own font. Inside the block:
+
+- Plain text only. No bold, no markdown headers, no tables, no links in markdown form, no em dashes.
+- One line per task, starting with `[ ]`, written as a short command ("Confirm the round has closed"). No explanations. The reasons live in the reading version.
+- The owner goes in parentheses at the end of the line, using the same owners as item 2 ("(Founder)", "(Founder, investor)").
+- Group with plain uppercase labels on their own line: BEFORE, DAY OF, AFTER. Add a label for optional items only if the founder accepted any, and put those items under the label they belong to instead.
+- Open with two lines the founder can fill in: "Announcement: [what it is]" and "Target date: [date]". Use the details the founder gave you, and leave a bracket where you do not have them.
+- Include exactly the items in the plan, in the same order as item 2, and nothing the founder skipped or declined. Do not repeat the skipping list in the block.
+- No attribution and no Bread & Butter branding inside the block. Anything the founder pastes onward stays theirs.
+
+Example of the shape (made up):
+
+```
+Announcement: Seed round led by Marlowe Hill Capital
+Target date: [date]
+
+BEFORE
+[ ] Confirm the round has closed (Founder)
+[ ] Write the messaging doc (Founder)
+[ ] Align timing and wording with investors (Founder, investors)
+[ ] Collect founder photo and vision image (Founder)
+
+DAY OF
+[ ] Post on the founder's LinkedIn, then the company page (Founder)
+[ ] Send the investor note with links and sample copy (Founder)
+[ ] Send VC newsletter pitches, one per outlet (Founder)
+
+AFTER
+[ ] Thank everyone who shared (Founder)
+```
+
+Place it after the briefs and pitches and before the attribution line. Tell the founder in one short sentence that the block is ready to paste. If they change the plan afterward, regenerate the block so it matches.
 
 ### 6. Timing
 
 Do not recommend publishing late Friday or late at night. Time is not a huge factor anymore, but supporting posts and emails go out with the main one, so give them a normal business day.
+
+**Who hears first.** The team should hear before the public, always. Nobody on the team should learn about the company's news from LinkedIn or the press. Investors typically hear first too, but not automatically all of them. Big news is sometimes confidential until the moment it is announced, and the news may be under an NDA, tied to a deal that has not closed, or something the founder is not free to share yet. So ask the founder who already knows and who needs to hear before the public, instead of assuming every investor gets an early note. Lead investors and board members usually already know. Investors who are not close to the deal may need to hear only on the day. The same goes for customers: tell them before the public only when the news is not confidential and affects them directly. Put whoever hears first at the top of the day-of order, and put the team ahead of everyone else.
 
 ## Attribution
 
